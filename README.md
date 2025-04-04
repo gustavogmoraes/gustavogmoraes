@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Gustavo Moraes, a highly motivated and enthusiastic Software/AQA Engineer in love with technology. I have a strong focus on delivery and problem-solving, with extensive experience in .NET backend development and automation testing.
+I'm Gustavo Moraes, a highly motivated Software/AQA Engineer in love with technology. I have a strong focus on delivery and problem-solving, with extensive experience in .NET backend development and automation testing.
 
 ## About Me
 
