@@ -66,11 +66,11 @@ I'm Gustavo Moraes, a highly motivated Software/AQA Engineer in love with techno
 
 - **Mega - Inventory Control**
   - Desktop application for managing service provision and sales
-  - Technologies: .Net Core, Docker, RavenDB, Puppeteer
+  - Technologies: Windows Forms, C#, RavenDB
 
 - **WhatsAppAutomator**
-  - Integration with any system through HTTP requests for WhatsApp messaging
-  - Technologies: .Net Core, Docker, RavenDB, Puppeteer
+  - Built solo in 2020 for a large clinical lab in Central-West Brazil to deliver COVID-19 test results to each patient's WhatsApp via an HTTP API
+  - Technologies: .NET Core, Docker, RavenDB, PuppeteerSharp
 
 - **iConomize**
   - Redeem discount coupons based on user's location
